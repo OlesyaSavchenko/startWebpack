@@ -1,0 +1,9 @@
+# mockup/node_modules/
+# mockup/build/
+# .git/
+# .idea/
+node_modules/
+/build
+
+
+yarn-error.log*

@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.main-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #2b3a42;
+}
+
+.content {
+    display: flex;
+}
+
+.content > img {
+    width: 100%;
+}
